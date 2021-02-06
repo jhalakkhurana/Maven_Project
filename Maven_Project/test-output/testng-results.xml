@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-06T12:15:56 IST" name="Default suite" finished-at="2021-02-06T12:16:41 IST" duration-ms="44970">
+    <groups>
+    </groups>
+    <test started-at="2021-02-06T12:15:56 IST" name="Default test" finished-at="2021-02-06T12:16:41 IST" duration-ms="44970">
+      <class name="org.testing.TestScripts.TC1">
+        <test-method is-config="true" signature="abc()[pri:0, instance:org.testing.TestScripts.TC1@69e153c5]" started-at="2021-02-06T12:15:56 IST" name="abc" finished-at="2021-02-06T12:16:04 IST" duration-ms="7794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+        <test-method signature="xyz(java.lang.String, java.lang.String)[pri:0, instance:org.testing.TestScripts.TC1@69e153c5]" started-at="2021-02-06T12:16:04 IST" name="xyz" data-provider="dp1" finished-at="2021-02-06T12:16:11 IST" duration-ms="7461" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1200]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xyz -->
+        <test-method is-config="true" signature="xyx()[pri:0, instance:org.testing.TestScripts.TC1@69e153c5]" started-at="2021-02-06T12:16:11 IST" name="xyx" finished-at="2021-02-06T12:16:11 IST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xyx -->
+        <test-method is-config="true" signature="abc()[pri:0, instance:org.testing.TestScripts.TC1@69e153c5]" started-at="2021-02-06T12:16:11 IST" name="abc" finished-at="2021-02-06T12:16:19 IST" duration-ms="7415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+        <test-method signature="xyz(java.lang.String, java.lang.String)[pri:0, instance:org.testing.TestScripts.TC1@69e153c5]" started-at="2021-02-06T12:16:19 IST" name="xyz" data-provider="dp1" finished-at="2021-02-06T12:16:26 IST" duration-ms="7370" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1200]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xyz -->
+        <test-method is-config="true" signature="xyx()[pri:0, instance:org.testing.TestScripts.TC1@69e153c5]" started-at="2021-02-06T12:16:26 IST" name="xyx" finished-at="2021-02-06T12:16:26 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xyx -->
+        <test-method is-config="true" signature="abc()[pri:0, instance:org.testing.TestScripts.TC1@69e153c5]" started-at="2021-02-06T12:16:26 IST" name="abc" finished-at="2021-02-06T12:16:34 IST" duration-ms="7370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+        <test-method signature="xyz(java.lang.String, java.lang.String)[pri:0, instance:org.testing.TestScripts.TC1@69e153c5]" started-at="2021-02-06T12:16:34 IST" name="xyz" data-provider="dp1" finished-at="2021-02-06T12:16:41 IST" duration-ms="7369" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1200]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xyz -->
+        <test-method is-config="true" signature="xyx()[pri:0, instance:org.testing.TestScripts.TC1@69e153c5]" started-at="2021-02-06T12:16:41 IST" name="xyx" finished-at="2021-02-06T12:16:41 IST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xyx -->
+      </class> <!-- org.testing.TestScripts.TC1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
